@@ -2,6 +2,6 @@
 
 Keys
 
-<Space> Change to a random skin
+\<Space\> Change to a random skin
 
 R-  Slowly rotate the model
